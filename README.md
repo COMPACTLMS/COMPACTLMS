@@ -5,5 +5,4 @@
 
 -  All of my projects are available at [https://compactlms.blogspot.com/p/tools.html](https://compactlms.blogspot.com/p/tools.html)
 
-[![COMPACT LMS COURSES](https://img.youtube.com/vi/QEXC9WYxaB8/maxresdefault.jpg)](https://youtu.be/QEXC9WYxaB8)
-### [COMPACT LMS COURSES](https://youtu.be/QEXC9WYxaB8)
+<iframe allowfullscreen="" class="BLOG_video_class" height="470" src="https://www.youtube.com/embed/QEXC9WYxaB8?autoplay=1&controls=0" width="790" youtube-src-id="ud6cDq_Un2M"></iframe>
