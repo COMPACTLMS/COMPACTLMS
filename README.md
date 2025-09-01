@@ -9,9 +9,7 @@
 
 - COMPACT LMS COURSES [https://youtu.be/QEXC9WYxaB8](https://youtu.be/QEXC9WYxaB8)
 
-COMPACT LMS DESKTOP SHORTCUT
 
-COMPACT LMS Installer (MSI and EXE) Desktop Create Shortcut for Windows OS
 
 <h3 align="center"><pre> 
  ██████╗ ██████╗ ███╗   ███╗██████╗  █████╗  ██████╗████████╗    ██╗     ███╗   ███╗███████╗
@@ -22,3 +20,6 @@ COMPACT LMS Installer (MSI and EXE) Desktop Create Shortcut for Windows OS
  ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝   ╚═╝       ╚══════╝╚═╝     ╚═╝╚══════╝
  </pre></h3>
  
+COMPACT LMS DESKTOP SHORTCUT
+
+COMPACT LMS Installer (MSI and EXE) Desktop Create Shortcut for Windows OS
