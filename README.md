@@ -8,3 +8,17 @@
 ![Video Title](https://img.youtube.com/vi/QEXC9WYxaB8/hqdefault.jpg) 
 
 - COMPACT LMS COURSES [https://youtu.be/QEXC9WYxaB8](https://youtu.be/QEXC9WYxaB8)
+
+COMPACT LMS DESKTOP SHORTCUT
+
+COMPACT LMS Installer (MSI and EXE) Desktop Create Shortcut for Windows OS
+
+<h1 align="center"><pre> 
+ ██████╗ ██████╗ ███╗   ███╗██████╗  █████╗  ██████╗████████╗    ██╗     ███╗   ███╗███████╗
+██╔════╝██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔════╝╚══██╔══╝    ██║     ████╗ ████║██╔════╝
+██║     ██║   ██║██╔████╔██║██████╔╝███████║██║        ██║       ██║     ██╔████╔██║███████╗
+██║     ██║   ██║██║╚██╔╝██║██╔═══╝ ██╔══██║██║        ██║       ██║     ██║╚██╔╝██║╚════██║
+╚██████╗╚██████╔╝██║ ╚═╝ ██║██║     ██║  ██║╚██████╗   ██║       ███████╗██║ ╚═╝ ██║███████║
+ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝   ╚═╝       ╚══════╝╚═╝     ╚═╝╚══════╝
+ </pre></h1>
+ 
