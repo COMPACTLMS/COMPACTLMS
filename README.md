@@ -23,6 +23,7 @@ COMPACT LMS DESKTOP SHORTCUT
  
 COMPACT LMS Installer (MSI and EXE) Desktop Create Shortcut for Windows OS
 
-buymeacoffee.com/compactlms
+<img width="3000" height="3000" alt="qr-code" src="https://github.com/user-attachments/assets/3e726124-25f6-445c-8340-1c32a1556d29" />
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=COMPACTLMS)](https://git.io/typing-svg)
