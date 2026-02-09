@@ -22,3 +22,7 @@ COMPACT LMS DESKTOP SHORTCUT
  </pre></h6>
  
 COMPACT LMS Installer (MSI and EXE) Desktop Create Shortcut for Windows OS
+
+buymeacoffee.com/compactlms
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=COMPACTLMS)](https://git.io/typing-svg)
