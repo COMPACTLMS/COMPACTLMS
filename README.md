@@ -5,7 +5,7 @@
 
 -  All of my projects are available at [https://compactlms.blogspot.com/p/tools.html](https://compactlms.blogspot.com/p/tools.html)
 
-![Video Title](https://img.youtube.com/vi/QEXC9WYxaB8/hqdefault.jpg)           <img width="330" height="330" alt="qr-code" src="https://github.com/user-attachments/assets/3e726124-25f6-445c-8340-1c32a1556d29" />
+![Video Title](https://img.youtube.com/vi/QEXC9WYxaB8/hqdefault.jpg)           <img width="350" height="350" alt="qr-code" src="https://github.com/user-attachments/assets/3e726124-25f6-445c-8340-1c32a1556d29" />
 
 - COMPACT LMS COURSES [https://youtu.be/QEXC9WYxaB8](https://youtu.be/QEXC9WYxaB8)
 
