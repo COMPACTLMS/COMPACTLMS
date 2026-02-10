@@ -5,7 +5,7 @@
 
 -  All of my projects are available at [https://compactlms.blogspot.com/p/tools.html](https://compactlms.blogspot.com/p/tools.html)
 
-![Video Title](https://img.youtube.com/vi/QEXC9WYxaB8/hqdefault.jpg)           
+<p align="center">![Video Title](https://img.youtube.com/vi/QEXC9WYxaB8/hqdefault.jpg)           
 
 - COMPACT LMS COURSES [https://youtu.be/QEXC9WYxaB8](https://youtu.be/QEXC9WYxaB8)
 
@@ -30,5 +30,5 @@ COMPACT LMS Installer (MSI and EXE) Desktop Create Shortcut for Windows OS
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=1518F7&height=120&lines=COMPACT+LMS" alt="Typing SVG" /></a></p>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13800A&width=850&height=60&lines=160%2C+Satyen+Bose+Rd%2C+Near+SBI+ATM%2C+Thakurtala%2C+Nazirgang%2C+Howrah-711109" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13800A&width=850&height=60&lines=160%2C+Satyen+Bose+Rd%2C+Near+SBI+ATM%2C+Thakurtala%2C+Nazirgang%2C+Howrah-9" alt="Typing SVG" /></a></p>
 
