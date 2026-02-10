@@ -26,4 +26,4 @@ COMPACT LMS Installer (MSI and EXE) Desktop Create Shortcut for Windows OS
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11AC24&width=435&lines=COMPACT+LMS;160%2C+Satyen+Bose+Road%2C++Near+SBI+ATM;Thakurtala%2C+Nazirgang%2C++Howrah-711109)](https://git.io/typing-svg)
 
 
-<img width="350" height="350" alt="qr-code" src="https://github.com/user-attachments/assets/3e726124-25f6-445c-8340-1c32a1556d29" />
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="compactlms" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
