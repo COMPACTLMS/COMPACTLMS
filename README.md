@@ -34,3 +34,5 @@ COMPACT LMS Installer (MSI and EXE) Desktop Create Shortcut for Windows OS
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13800A&width=850&height=60&lines=160%2C+Satyen+Bose+Rd%2C+Near+SBI+ATM%2C+Thakurtala%2C+Nazirgang%2C+Howrah-9" alt="Typing SVG" /></a></p>
 
+<img alt="Static Badge" src="https://img.shields.io/badge/COMPACTLMS-COURSES-red?style=flat-square&labelColor=red&color=blue&link=https%3A%2F%2Fcompactlms.blogspot.com&link=https%3A%2F%2Fcompactlms.blogspot.com%2F2023%2F03%2Fhome.html">
+
